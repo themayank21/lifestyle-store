@@ -1,0 +1,70 @@
+#banner-image {
+    padding-top: 75px;
+    padding-bottom: 66px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/intro-bg_1.jpg);
+    background-size: cover;
+}
+
+#banner-content {
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-left: 20%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+
+footer {
+    position: fixed;
+    padding: 10px;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #ededed;
+    background-color: transparent;
+}
+
+
+
+/*Login Page*/
+
+.login-panel {
+    margin-top: 45px;
+}
+.row-span{
+    margin: 13.1% 0;
+}
+
+/*Login Page*/
+
+
+/*Product Page*/
+
+.jumbo {
+    margin-top: 5.5%;
+}
+
+.products {
+    margin-bottom: 22px;
+}
+
+/*Product Page*/
+
+
+/*Cart Page*/
+
+.cart {
+    margin-top: 7%;
+}
+
+/*Cart Page*/
